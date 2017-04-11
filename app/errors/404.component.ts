@@ -15,3 +15,4 @@ export class Error404Component{
   constructor() {
 
   }
+}
