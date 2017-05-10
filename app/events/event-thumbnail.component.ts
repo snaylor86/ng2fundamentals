@@ -1,7 +1,6 @@
 import { Component, Input } from '@angular/core'
 import { IEvent } from './shared/index'
 
-
 @Component({
   selector: 'event-thumbnail',
   template: `
